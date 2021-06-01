@@ -1,4 +1,9 @@
 # Emojis 
+## The Real Author is Naji
+**pub.dev [pub](https://pub.dev/packages/emojis)** <br>
+**github [github](https://github.com/i-Naji/emojis)**
+
+I Just pulled it and converted it to null safety
 
 🔥 Emoji for Dart 🔥 Over 3300 Emojis <br> 
 This 📦 contain all 🆕 [Unicode 13 Emojis](https://unicode.org/emoji/charts) (2️0️2️0️) 

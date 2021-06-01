@@ -1,7 +1,7 @@
 name: emojis_null_safe
 description: Emojis for Dart! This package contain all unicode 13.0 emojis (2020)!
-version: 0.0.1
-homepage: https://www.example.com
+version: 0.0.2
+homepage: https://github.com/amebrahimi/emoji_null_safe
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
